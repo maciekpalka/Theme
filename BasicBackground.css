@@ -1,6 +1,6 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BetterDocsBlock.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ThemeDevBadge.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://raw.githubusercontent.com/maciekpalka/Theme/master/BetterDocsBlock.css);
+@import url(https://raw.githubusercontent.com/maciekpalka/Theme/master/ThemeDevBadge.css);
+@import url(https://raw.githubusercontent.com/maciekpalka/Theme/master/BlurpleRecolor.css);
 
 :root {
 	--dtransparencyalpha:			0,0,0;
